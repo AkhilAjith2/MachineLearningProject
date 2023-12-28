@@ -1,0 +1,1 @@
+An age prediction model that allows me to detect faces using a CNN model and predicts the age of the person using models trained by me using a dataset of images of various ages. It is coded in Python.
